@@ -1,0 +1,9 @@
+start mlt.exe
+start wave.exe
+start bouncingicons.exe
+start Circles2.exe
+start clt.exe
+start IconHell.exe
+start rgb.exe
+start theshake2.exe
+start BadColor.exe
